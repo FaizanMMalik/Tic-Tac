@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pco+DlN2qMEWD1V7eP5qHeEQbv5g3hMlMHTzmRniEvWI397IhFuQdU2p2+UhmEaYD0hRd7XdxxXXV/azPG50kg==",
+  "success": true,
+  "projectFilePath": "E:\\BSIT\\6th\\PDC\\PDC C\\Tic Tac\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faizan Mehmood Malik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Faizan Mehmood Malik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faizan Mehmood Malik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faizan Mehmood Malik\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
